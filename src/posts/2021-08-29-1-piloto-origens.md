@@ -13,6 +13,12 @@ Para começar pelo começo, este é o episódio que conta porquê, onde e como c
 -Simon Sinek, comunicação - Golden Circle TEDTalks https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=pt-br 
 -Joseph Campbell, mitologista - Livro “O herói de mil faces” \
 
+## Materiais adicionais: 
+
+O segundo episodio, gravado ao vivo na casa do Leandro Ferreira
+
+https://www.youtube.com/watch?v=e20YwjbLL30
+
 ## Quem fez este episódio: 
 
 Corres gerais e apresentação:
