@@ -5,6 +5,7 @@ const markdownItAnchor = require('markdown-it-anchor')
 
 const filters = require('./eleventy/filters.js')
 const transforms = require('./eleventy/transforms.js')
+const embedEverything = require("eleventy-plugin-embed-everything");
 
 const workboxOptions = {
     cacheId: 'emergency-site',
@@ -21,7 +22,8 @@ module.exports = function (config) {
     // Plugins
     config.addPlugin(pluginRss)
     config.addPlugin(pluginPWA, workboxOptions)
-
+    config.addPlugin(embedEverything)
+    
     // Filters
     Object.keys(filters).forEach((filterName) => {
         config.addFilter(filterName, filters[filterName])
