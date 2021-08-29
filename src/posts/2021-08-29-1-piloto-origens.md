@@ -2,18 +2,16 @@
 title: "#1 - Piloto - Origens"
 date: 2021-08-29T17:21:26.639Z
 ---
-
-
 Para começar pelo começo, este é o episódio que conta porquê, onde e como começou o Ossobuco. Os convidados da Helô são o Daniel Souza, diretamente de Londres e o Thum Thompsom, diretamente de São Paulo. Os dois são fundadores do evento e trazem aqueles detalhes que só uma boa conversa consegue fazer vir à tona. 
 
-<iframe src="https://anchor.fm/ossobuco/embed/episodes/1-Piloto---Origens-e5fd9o/a-ao7dil" height="200px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/ossobuco/embed/episodes/1-Piloto---Origens-e5fd9o/a-ao7dil" height="200px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Citações:
 
--Simon Sinek, comunicação - Golden Circle TEDTalks https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=pt-br 
--Joseph Campbell, mitologista - Livro “O herói de mil faces” \
+\-Simon Sinek, comunicação - [Golden Circle](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=pt-br) - TEDTalks 
+-Joseph Campbell, mitologista - Livro “O herói de mil faces” 
 
-## Materiais adicionais: 
+## Materiais adicionais:
 
 O segundo episodio, gravado ao vivo na casa do Leandro Ferreira
 
