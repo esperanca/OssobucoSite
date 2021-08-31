@@ -15,5 +15,5 @@ module.exports = {
     lang: META_LANG || 'pt-br',
     primaryColor: META_COLOR || '#DB0000',
     email: META_EMAIL || 'contato@ossobu.co',
-    dateFormat: 'dd mm yyyy'
+    dateFormat: 'dd LLLL yyyy'
 }
