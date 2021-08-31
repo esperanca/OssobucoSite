@@ -7,7 +7,7 @@
         <p><a href="tel:{{ meta.telephone }}">{{ meta.telephone }}</a></p>
     {% endif %}
     </div>
-    <div>
-        <p>Atualizado em: {{ build.timestamp | dateToFormat("DD MM, t") }}</p>
+   <div>
+        <h4>Atualizado em: {{ build.timestamp | dateToISO }}</h4>
     </div>
 </footer>
