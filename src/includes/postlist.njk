@@ -7,9 +7,9 @@
                <time datetime="{{ post.date | dateToFormat('dd-mm-yyyy') }}">
             ({{ post.date | dateToFormat(meta.dateFormat) }})
                </p>
-              <h2>
+              <h3>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-              </h2>
+              </h3>
 
             </li>
 {% endfor %}
