@@ -1,6 +1,6 @@
 ---
 title: "#2 - Sabri arrived"
-date: 2021-08-29T17:21:26.639Z
+date: 2023-07-15T17:21:26.639Z
 ---
 Para começar pelo começo, este é o episódio que conta porquê, onde e como começou o Ossobuco. Os convidados da Helô são o Daniel Souza, diretamente de Londres e o Thum Thompsom, diretamente de São Paulo. Os dois são fundadores do evento e trazem aqueles detalhes que só uma boa conversa consegue fazer vir à tona. 
 
