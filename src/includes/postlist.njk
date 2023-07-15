@@ -1,7 +1,7 @@
 <ol class="postlist" reversed>
 {% for post in collections.posts | reverse %}
-    
-    
+
+
     <li>
               <p>
                <time datetime="{{ post.date | dateToFormat('dd-MM') }}">{{ post.date | dateToFormat(meta.dateFormat) }}
@@ -9,10 +9,7 @@
               <h3>
                 <a href="{{ post.url | url }}">{{ post.data.title }}</a>
               </h3>
-
+            </br>
             </li>
 {% endfor %}
 </ol>
-
-
-
